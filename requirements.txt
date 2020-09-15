@@ -1,0 +1,3 @@
+dhooks
+requests
+discord
